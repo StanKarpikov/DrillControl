@@ -12,7 +12,12 @@ Features:
 - Tree variable resisters to set speeds for buttons
 - One variable resister to set the proximity threshold
 
-The firmware logic implemented in a single file `main.c`.
+The firmware logic implemented in a single file `main.c
+
+The board is depicted in the Fig.
+
+![Development board](Board/board_with_motor.jpg)
+Fig. Development board with additional components
 
 ## Software requirements
 The project was created in IAR EWSTM8. Suitable versions: V1.30+
@@ -22,7 +27,7 @@ The project was created in IAR EWSTM8. Suitable versions: V1.30+
 - AN3332 example files
 - [Library for the SparkFun APDS-9960 breakout board](https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library)
 - STVD
-- (STM8S003F I2C driver)[https://git.shilov.pp.ua/shiva/VAPC2/raw/branch/master/lib/i2c.c], http://hamlab.net/
+- [STM8S003F I2C driver](https://git.shilov.pp.ua/shiva/VAPC2/raw/branch/master/lib/i2c.c), http://hamlab.net/
 
 
 
