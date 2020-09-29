@@ -12,7 +12,7 @@ Features:
 - Tree variable resisters to set speeds for buttons
 - One variable resister to set the proximity threshold
 
-The firmware logic implemented in a single file `main.c
+The firmware logic implemented in a single file `main.c`
 
 The board is depicted in the Fig.
 
